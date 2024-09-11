@@ -1,0 +1,14 @@
+/* ----------------------- Archivo black font start ----------------------- */
+
+@font-face {
+    font-family: 'archivo';
+    src: url('../fonts/archivo/black/Archivo-Black.eot');
+    src: url('../fonts/archivo/black/Archivo-Black.eot') format('embedded-opentype'),
+            url('../fonts/archivo/black/Archivo-Black.woff2') format('woff2'),
+            url('../fonts/archivo/black/Archivo-Black.woff') format('woff'),
+            url('../fonts/archivo/black/Archivo-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+/* ----------------------- Archivo black font end ----------------------- */

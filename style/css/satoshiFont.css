@@ -1,0 +1,74 @@
+/* ----------------------- Satoshi light font start ----------------------- */
+
+@font-face {
+    font-family: 'satoshi';
+    src: url('../fonts/satoshi/light/Satoshi-Light.eot');
+    src: url('../fonts/satoshi/light/Satoshi-Light.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/satoshi/light/Satoshi-Light.woff2') format('woff2'),
+            url('../fonts/satoshi/light/Satoshi-Light.woff') format('woff'),
+            url('../fonts/satoshi/light/Satoshi-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* ----------------------- Satoshi light font end ----------------------- */
+
+/* ----------------------- Satoshi regular font start ----------------------- */
+
+@font-face {
+    font-family: 'satoshi';
+    src: url('../fonts/satoshi/regular/Satoshi-Regular.eot');
+    src: url('../fonts/satoshi/regular/Satoshi-Regular.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/satoshi/regular/Satoshi-Regular.woff2') format('woff2'),
+            url('../fonts/satoshi/regular/Satoshi-Regular.woff') format('woff'),
+            url('../fonts/satoshi/regular/Satoshi-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ----------------------- Satoshi regular font end ----------------------- */
+
+/* ----------------------- Satoshi medium font start ----------------------- */
+
+@font-face {
+    font-family: 'satoshi';
+    src: url('../fonts/satoshi/medium/Satoshi-Medium.eot');
+    src: url('../fonts/satoshi/medium/Satoshi-Medium.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/satoshi/medium/Satoshi-Medium.woff2') format('woff2'),
+            url('../fonts/satoshi/medium/Satoshi-Medium.woff') format('woff'),
+            url('../fonts/satoshi/medium/Satoshi-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* ----------------------- Satoshi medium font end ----------------------- */
+
+/* ----------------------- Satoshi bold font start ----------------------- */
+
+@font-face {
+    font-family: 'satoshi';
+    src: url('../fonts/satoshi/bold/Satoshi-Bold.eot');
+    src: url('../fonts/satoshi/bold/Satoshi-Bold.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/satoshi/bold/Satoshi-Bold.woff2') format('woff2'),
+            url('../fonts/satoshi/bold/Satoshi-Bold.woff') format('woff'),
+            url('../fonts/satoshi/bold/Satoshi-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+/* ----------------------- Satoshi bold font end ----------------------- */
+
+/* ----------------------- Satoshi black font start ----------------------- */
+
+@font-face {
+    font-family: 'satoshi';
+    src: url('../fonts/satoshi/black/Satoshi-Black.eot');
+    src: url('../fonts/satoshi/black/Satoshi-Black.eot?#iefix') format('embedded-opentype'),
+            url('../fonts/satoshi/black/Satoshi-Black.woff2') format('woff2'),
+            url('../fonts/satoshi/black/Satoshi-Black.woff') format('woff'),
+            url('../fonts/satoshi/black/Satoshi-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+/* ----------------------- Satoshi black font end ----------------------- */
