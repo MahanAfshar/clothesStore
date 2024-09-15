@@ -1,5 +1,3 @@
-/* ----------------------- Satoshi light font start ----------------------- */
-
 @font-face {
     font-family: 'satoshi';
     src: url('../fonts/satoshi/light/Satoshi-Light.eot');
@@ -10,10 +8,6 @@
     font-weight: 300;
     font-style: normal;
 }
-
-/* ----------------------- Satoshi light font end ----------------------- */
-
-/* ----------------------- Satoshi regular font start ----------------------- */
 
 @font-face {
     font-family: 'satoshi';
@@ -26,10 +20,6 @@
     font-style: normal;
 }
 
-/* ----------------------- Satoshi regular font end ----------------------- */
-
-/* ----------------------- Satoshi medium font start ----------------------- */
-
 @font-face {
     font-family: 'satoshi';
     src: url('../fonts/satoshi/medium/Satoshi-Medium.eot');
@@ -40,10 +30,6 @@
     font-weight: 500;
     font-style: normal;
 }
-
-/* ----------------------- Satoshi medium font end ----------------------- */
-
-/* ----------------------- Satoshi bold font start ----------------------- */
 
 @font-face {
     font-family: 'satoshi';
@@ -56,10 +42,6 @@
     font-style: normal;
 }
 
-/* ----------------------- Satoshi bold font end ----------------------- */
-
-/* ----------------------- Satoshi black font start ----------------------- */
-
 @font-face {
     font-family: 'satoshi';
     src: url('../fonts/satoshi/black/Satoshi-Black.eot');
@@ -70,5 +52,3 @@
     font-weight: 900;
     font-style: normal;
 }
-
-/* ----------------------- Satoshi black font end ----------------------- */
