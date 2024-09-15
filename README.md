@@ -1,14 +1,14 @@
 # Demo
 
-[![demo](./style/gifs/demo.gif)](#)
+[![demo](./style/gifs/demo.gif)]([#](https://mahanafshar.github.io/clothesStore/))
 
 ## Clothes store
 
-### **[Review online](#)**
+### **[Review online](https://mahanafshar.github.io/clothesStore/)**
 
 ## Description
 
-lorem ipsum
+It is an English-language project for a clothes store that sells clothes and has a beautiful user interface & login and sign up.
 
 ## Features
 
@@ -16,6 +16,7 @@ lorem ipsum
 * Beautiful user interface.
 * Mobile first.
 * Login and sign up.
+* Comments slider.
 
 ## Technologies
 
